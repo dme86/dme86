@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-I'm Dan, a DevOps engineer who is passionate about Linux & open source software.
+I’m Dan, an experienced DevOps engineer with a lifelong passion for technology. Since childhood, I have been deeply immersed in the world of computers, dedicating years to mastering Linux systems before transitioning to cloud infrastructure. I specialize in open-source software, automation, and cost-efficient solutions. I use tools like [k9s](https://dme86.github.io/2024/01/16/k9s-tutorial/) daily to manage [K8s](https://kubernetes.io/) clusters, including local development environments built on [k3d](https://k3d.io/), all while optimizing infrastructure to keep costs low. My expertise lies in building scalable, efficient systems tailored to modern infrastructure demands.
 
 ## Configuration Repositories 🏢
 
 I have split my configuration files into separate repositories, allowing users to pick and choose what they want from my setup without having to download my complete `.config` files. For my daily work, I have configured [neovim](https://github.com/dme86/neovim) as an IDE and use [tmux](https://github.com/dme86/tmux) for tabs and splits for every terminal. Recently, I switched to [fish](https://github.com/dme86/fish) for my shell.
 
-As a minimal window manager, I use [dwm](https://github.com/dme86/dwm), and my [wallpaper collection](https://github.com/dme86/.wallpapers) is also backed up on GitHub.
+As a minimal window manager, I use [dwm](https://github.com/dme86/dwm), and my [wallpaper collection](https://github.com/dme86/.wallpapers) is also backed up on GitHub. Additionally, I’ve built my own [open-source keyboard](https://github.com/dme86/corne), tailoring hardware around my development workflow to maximize efficiency and ergonomics.
 
 I started using GitHub as a platform for [my blog](https://dme86.github.io/). 
 
